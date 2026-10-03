@@ -1,0 +1,8 @@
+crop,district,production_tonnes,price_per_kg,stock_units,date,total_value
+Wheat,Jammu,120,24.5,10,2026-01-05,2940000
+Rice,Kathua,95,31,8,2026-01-06,2945000
+Apple,Kashmir,150,85,15,2026-01-07,12750000
+Maize,Kathua,115,28,12,2026-01-08,3220000
+Rice,Kathua,110,31,9,2026-01-09,3410000
+Apple,Kashmir,160,30,16,2026-01-10,4800000
+Maize,Kathua,105,29,11,2026-01-11,3045000
